@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazansari890&label=Profile%20views&color=0e75b6&style=flat" alt="ayazansari890" /> </p>
 
+- 👯 Automation Engineer at Cognizant. **2021 - Present**
+  
 - 🔭 ML Data Associate at Amazon. **2020 - 2021**
 
 - 🌱 Right now I upskilled myself on **Data Science, Data Visualization, Power BI, ML Models, MySQL**
 
-- 👯 Automation Engineer at Cognizant. **2021 - Present**
-
-- 📫 How to reach me **ayaz.ansari890@gmail.com**
+- 📫 How to reach me: **ayaz.ansari890@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
