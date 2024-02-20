@@ -7,7 +7,7 @@
 
 - 👯 Automation Engineer at Cognizant. **2021 - Present**
   
-- 🔭 ML Data Associate at Amazon. **2020 - 2021**
+- 🔭 Tron Associate at Amazon. **2020 - 2021**
 
 - 🌱 Right now I upskilled myself on **Data Science, Data Visualization, Power BI, ML Models, MySQL**
 
