@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazansari890&label=Profile%20views&color=0e75b6&style=flat" alt="ayazansari890" /> </p>
 
-- 👯 Automation Engineer at Cognizant. **2021 - Present**
+- 👯 Senior Test Engineer - Automation at SLK Softwares. **2024 - Present**
+
+- 👯 Automation Engineer at Cognizant. **2021 - 2024**
   
 - 🔭 ML Data Associate at Amazon. **2020 - 2021**
 
