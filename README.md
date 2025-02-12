@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazansari890&label=Profile%20views&color=0e75b6&style=flat" alt="ayazansari890" /> </p>
 
-- 👯 Senior Test Engineer - Automation at SLK Softwares. **2024 - Present**
+- 👯 Senior Automation Test Engineer at SLK Softwares. **2024 - Present**
 
 - 👯 Automation Engineer at Cognizant. **2021 - 2024**
   
